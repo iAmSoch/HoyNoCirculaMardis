@@ -1,0 +1,8 @@
+C:\Users\stali\Downloads\Proyectos\HoyNoCircula1\bin\Debug\HoyNoCircula1.exe.config
+C:\Users\stali\Downloads\Proyectos\HoyNoCircula1\bin\Debug\HoyNoCircula1.exe
+C:\Users\stali\Downloads\Proyectos\HoyNoCircula1\bin\Debug\HoyNoCircula1.pdb
+C:\Users\stali\Downloads\Proyectos\HoyNoCircula1\obj\Debug\HoyNoCircula1.csproj.AssemblyReference.cache
+C:\Users\stali\Downloads\Proyectos\HoyNoCircula1\obj\Debug\HoyNoCircula1.csproj.SuggestedBindingRedirects.cache
+C:\Users\stali\Downloads\Proyectos\HoyNoCircula1\obj\Debug\HoyNoCircula1.csproj.CoreCompileInputs.cache
+C:\Users\stali\Downloads\Proyectos\HoyNoCircula1\obj\Debug\HoyNoCircula1.exe
+C:\Users\stali\Downloads\Proyectos\HoyNoCircula1\obj\Debug\HoyNoCircula1.pdb
