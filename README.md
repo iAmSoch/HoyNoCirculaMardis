@@ -3,9 +3,16 @@ He cargado el código que realicé para la prueba que me han asignado.
 Fue realziado en aplicación de consola con C#, ya que solo fue por facilidad y rapidez que se realizó en aplicación de consola.
 La base de Datos fue creada en mi ordenador Con SQL Server la versión Express.
 Realicé la mayor cantidad de pruebas posibles para poger obtener los resultados buscados.
+De preferencia desearía que se pueda ver por medio de una reunión como es el funcionamiento del programa, ya que aquí no se aprecia como fue su desarrollo, ni sus resulatdos.
 
 Ya que la base de datos no se cargará, adjunto como código la respuesta entregada:
+¡¡¡CONOZCA SI PUEDE CIRCULAR EN UNA FECHA Y HORA DETERMINADA!!!
 
+Ingrese su placa (ABC0123): XTR2452
+Ingrese fecha deseada (DD-MM-YYYY): 30-1-2023
+Ingrese la hora deseada (HH:MM): 29:34
+La hora ingresada no existe, ingrese una hora válida
+Ingrese la hora deseada (HH:MM): 19:24
 Usted NO puede circular en la fecha y hora ingresada!!!
 Se ha cargado correctamente la información
 
